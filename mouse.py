@@ -7,7 +7,7 @@ import pyautogui
 # =========================
 # CONFIGURAÇÕES
 # =========================
-MODEL_PATH = "/Users/guilhermedefreitasferraz/Documents/airmouse/gesture_recognizer.task"
+MODEL_PATH = "/seu-caminho/para/gesture_recognizer.task"
 CAMERA_INDEX = 1   # se não abrir, troque para 0
 
 SMOOTHING = 0.2
